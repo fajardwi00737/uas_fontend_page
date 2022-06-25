@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e733e645.css",
-    "main.js": "/static/js/main.8d1cc7ee.js",
-    "static/media/covid_img.png": "/static/media/covid_img.6e013a969bdd8e00c9df.png",
-    "index.html": "/index.html",
-    "main.e733e645.css.map": "/static/css/main.e733e645.css.map",
-    "main.8d1cc7ee.js.map": "/static/js/main.8d1cc7ee.js.map"
+    "main.css": "https://fajardwi00737.github.io/uas_fontend_page/static/css/main.e733e645.css",
+    "main.js": "https://fajardwi00737.github.io/uas_fontend_page/static/js/main.8d1cc7ee.js",
+    "static/media/covid_img.png": "https://fajardwi00737.github.io/uas_fontend_page/static/media/covid_img.6e013a969bdd8e00c9df.png",
+    "index.html": "https://fajardwi00737.github.io/uas_fontend_page/index.html",
+    "main.e733e645.css.map": "https://fajardwi00737.github.io/uas_fontend_page/static/css/main.e733e645.css.map",
+    "main.8d1cc7ee.js.map": "https://fajardwi00737.github.io/uas_fontend_page/static/js/main.8d1cc7ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.e733e645.css",
-    "static/js/main.8d1cc7ee.js"
+    "https://fajardwi00737.github.io/uas_fontend_page/static/css/main.e733e645.css",
+    "https://fajardwi00737.github.io/uas_fontend_page/static/js/main.8d1cc7ee.js"
   ]
 }
